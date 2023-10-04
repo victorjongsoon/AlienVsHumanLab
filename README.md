@@ -5,6 +5,7 @@
 <br />
 <br />
 ![Image of Test Runner](https://github.com/victorjongsoon/AlienVsHumanLab/blob/main/img/JUnit.PNG)
+![Image of Register Page](https://github.com/victorjongsoon/AlienVsHumanLab/blob/main/img/JUnit.PNG)
 
 ## 2 - Creating test case for the object
 <br />
