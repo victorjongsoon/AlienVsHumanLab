@@ -4,7 +4,7 @@
 ## 1 - Installation of Test Runner for Visual Studio
 <br />
 <br />
-![Image of Login Page](https://github.com/victorjongsoon/AlienVsHumanLab/blob/main/img/JUnit.PNG)
+![Image of Test Runner](https://github.com/victorjongsoon/AlienVsHumanLab/blob/main/img/JUnit.PNG)
 
 ## 2 - Creating test case for the object
 <br />
