@@ -17,4 +17,4 @@
 * Java
 * JUnit
 
-
+![Image of Login Page](https://github.com/victorjongsoon/LetsGoShoppingLab/blob/main/img/Login%20Page1.PNG)
